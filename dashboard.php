@@ -39,7 +39,7 @@
               <br>
               <br>
             <div class="thumbnail">
-                <a href="admin/login.php">
+                <a href="login.php">
                 <img src="admin-icon.png" alt="Admin" style="width:20%">
                 </a>
             </div>
