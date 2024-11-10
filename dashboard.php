@@ -44,7 +44,7 @@
                 </a>
             </div>
               <div class="thumbnail">
-              <a href="operasi/login.php">
+              <a href="loginOperasi.php">
                 <img src="mechanical_operation_410285.png" alt="Operation" style="width:20%">
               </a>
             </div>
